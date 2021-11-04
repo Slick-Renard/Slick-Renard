@@ -35,7 +35,10 @@ This is a collecction of Cyber related articles and tools which I have come acro
     + https://github.com/cyberark/SkyArk - Azure and AWS privileged account scanning provided by CyberArk to compliment on-premise CyberArk Discovery and anaylysis tooling.
     + https://github.com/nccgroup/ScoutSuite - Open source multi-cloud security-auditing tool.
     + https://github.com/toniblyx/prowler - Security tool to perform AWS security best practices assessments specifically CIS level 1 & 2.
-  + Threat hunting
+    + https://github.com/orlikoski/CyLR - Essential tool for doing quick forensics informaiton capture to USB 
+    + https://github.com/dkovar/analyzeMFT - Simple tool to anaylse the larger MFT file captured from windows devices 
+    + https://github.com/log2timeline/plaso - Super timeline all the things, really helpful once you have artifacts from CyLR.
+  + Threat hunting and investigations
     + https://attack.mitre.org/matrices/enterprise/ - Mitre framework for attacker tactics and techniques.
     + https://d3fend.mitre.org/ - Mitre framework for defender tactics and techniques.
     + https://www.iplocation.net - IP address location aggregation site showing multiple realtime and historical IP locations from different sources.
