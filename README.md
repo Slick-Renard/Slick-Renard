@@ -16,6 +16,7 @@ This is a collecction of Cyber related articles and tools which I have come acro
   + https://github.com/orlikoski/CyLR - Essential tool for doing quick forensics informaiton capture to USB 
   + https://github.com/dkovar/analyzeMFT - Simple tool to anaylse the larger MFT file captured from windows devices 
   + https://github.com/log2timeline/plaso - Super timeline all the things, really helpful once you have artifacts from CyLR.
+  + https://github.com/0x90n/InfoSec-Black-Friday - Yearly Black Friday update for Cyber related tools and software.
 + Threat hunting and investigations
   + https://attack.mitre.org/matrices/enterprise/ - Mitre framework for attacker tactics and techniques.
   + https://d3fend.mitre.org/ - Mitre framework for defender tactics and techniques.
