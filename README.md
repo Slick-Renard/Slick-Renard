@@ -23,7 +23,8 @@ This is a collecction of Cyber related articles and tools which I have come acro
   + https://www.iplocation.net - IP address location aggregation site showing multiple realtime and historical IP locations from different sources.
   + https://www.shodan.io/ - Search engine of IPs with active serivces and associated details including vulnerabilites. Freelancer edition provides access to scan new IPs and basic API.
   + http://www.zone-h.org/archive - Archive of website defacements across known published sites.
-  +  https://www.spamhaus.org/isp/ - Website to check if domainshave been blacklisted on email mailing lists.
+  + https://www.spamhaus.org/isp/ - Website to check if domainshave been blacklisted on email mailing lists.
+  + https://dnsdumpster.com/ - Discovery tool for domains and related sub-domains including visibile host and protocols.
   + https://www.ipaddressguide.com/cidr - Useful webistre to check the IP addressed in a CIDR range if you have not memeriif domainshave been blacklisted on email mailing lists.
   + https://www.spectx.com/ - Log ingestion and query platform that allows for quick ingestion of potentially unstructed logs, really good for IIS logs. Some filters include: 
     ```
