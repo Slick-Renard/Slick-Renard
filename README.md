@@ -26,7 +26,7 @@ This is a collecction of Cyber related articles and tools which I have come acro
   + https://www.spamhaus.org/isp/ - Website to check if domainshave been blacklisted on email mailing lists.
   + https://dnsdumpster.com/ - Discovery tool for domains and related sub-domains including visibile host and protocols.
   + https://www.ipaddressguide.com/cidr - Useful webistre to check the IP addressed in a CIDR range if you have not memeriif domainshave been blacklisted on email mailing lists.
-  + https://www.echotrail.io/ - Common Windows processes and filename search engine with known good score
+  + https://www.echotrail.io/ - Common Windows executables search engine with known good score
   + https://www.spectx.com/ - Log ingestion and query platform that allows for quick ingestion of potentially unstructed logs, really good for IIS logs. Some filters include: 
     ```
          | filter(Destination NOT CONTAINS("100.72."))
