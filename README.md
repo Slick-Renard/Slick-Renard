@@ -18,6 +18,7 @@ This is a collecction of Cyber related articles and tools which I have come acro
   + https://github.com/log2timeline/plaso - Super timeline all the things, really helpful once you have artifacts from CyLR.
   + https://github.com/0x90n/InfoSec-Black-Friday - Yearly Black Friday update for Cyber related tools and software.
 + Threat hunting and investigations
+  + https://osintframework.com/ - Open source Intelligence framework with tools available for different information types.
   + https://attack.mitre.org/matrices/enterprise/ - Mitre framework for attacker tactics and techniques.
   + https://d3fend.mitre.org/ - Mitre framework for defender tactics and techniques.
   + https://www.iplocation.net - IP address location aggregation site showing multiple realtime and historical IP locations from different sources.
